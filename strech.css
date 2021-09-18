@@ -1,0 +1,61 @@
+body{
+    font-family: 'Playfair Display', serif;
+}
+.one{
+    background-color:  #5E454B;
+}
+.headh1{
+    color: #D8B384;
+    font-weight: 500;
+    padding: 2%;
+    font-size: 2.4rem;
+    word-spacing: 5px;
+}
+
+.headul{
+    color: #D8B384;
+    line-height: 2;
+}
+.bodyul{
+    color: #D8B384;
+    line-height: 2;
+}
+
+.headimg{
+    width: 25%;
+    padding: 2%;
+}
+.headp{
+    line-height: 2;
+    color: #D8B384;
+}
+.bodyh3{
+    text-align: justify;
+    color: #D8B384;
+    font-weight: 500;
+    margin: 2%;
+    padding: 2%;
+    font-size: 1.6rem;
+}
+.bodyh2{
+    
+    color: #D8B384;
+    font-weight: 500;
+    padding: 2%;
+    font-size: 2.5rem;
+}
+.bodyp{
+   
+    color: #D8B384;
+    padding: 2%;
+}
+.bodyimg{
+    width: 20%;
+    margin: 2%;
+    position: relative;
+    left: 3%;
+}
+
+.bodyul{
+text-align: justify;
+}

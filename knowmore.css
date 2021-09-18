@@ -1,0 +1,25 @@
+.headh1{
+    font-size: 3rem;
+    padding: 12px;
+    color:#D8B384 ;
+    text-align: left;
+
+}
+.headp{
+    line-height: 2.8;
+    color:#D8B384 ;
+    text-align: left;
+    padding-top: 5rem;
+
+}
+.headimg{
+    width: 55%;
+}
+.one{
+    background-color: #5E454B;
+}
+body{
+    text-align: center;
+    background-color: #5E454B;
+    font-family: 'Playfair Display', serif;
+}

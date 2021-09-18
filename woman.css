@@ -1,0 +1,47 @@
+body{
+    font-family: 'Playfair Display', serif;
+    text-align: center;
+}
+.bodyimg{
+    width: 70%;
+    padding: 0.7rem;
+}
+.headh1{
+    font-size: 3rem;
+    padding: 2rem;
+    color: #D8B384;
+}
+.headh2{
+  
+    color: #D8B384;
+    padding: 2rem;
+    
+}
+.headul{
+    list-style-type: none;
+    color: #D8B384;
+}
+
+.bodyh2{
+    padding:8px ;
+    color: #D8B384;
+    text-align: left;
+}
+.bodyp{
+    color: #D8B384;
+    text-align: left;
+    line-height: 2;
+}
+.one{
+    background-color:#5E454B ;
+}
+.two{
+    background-color: #5E454B;
+}
+@media (max-width:768px) {
+
+    .bodyh2{
+        text-align: center;
+    }
+    
+}

@@ -1,0 +1,39 @@
+body{
+    font-family: 'Playfair Display', serif;
+}
+.one{
+    background-color:#5E454B;
+}
+.two{
+    background-color:#D8B384;
+}
+.headp{
+    line-height: 2;
+    color:  #D8B384;
+}
+.headh1{
+    color: #D8B384;
+}
+.headimg{
+    padding: 0.7rem;
+    width:  20%;
+}
+.headul{
+    line-height: 2;
+    color: #D8B384;
+}
+.bodyul{
+    color: #D8B384;
+    line-height: 2;
+}
+.bodyp{
+    color: #D8B384;
+    line-height: 1.8;
+}
+.bodyimg{
+    width: 80%;
+    padding: 0.7rem;
+}
+.bodyh2{
+    color: #D8B384;
+}
